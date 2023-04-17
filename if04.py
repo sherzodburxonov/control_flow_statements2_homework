@@ -7,4 +7,10 @@ def main(a,b):
     Returns:
         int: return answer.
     """
-    return
+    d=0
+    if a==b:
+        d
+    if a!=b:
+        d=max(a,b)
+    return d
+print(main(3,7))
