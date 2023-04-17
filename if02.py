@@ -14,4 +14,4 @@ def main(a,b,c):
     if z>c:
        z=c
     return z
-print(main(-5,-3,-1))
+print(main(-4,-3,-1))
